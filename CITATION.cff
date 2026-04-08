@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite as below."
+
+title: "LAB-3D: A Three-Dimensional Wi-Fi RSSI Fingerprint Dataset"
+
+authors:
+  - family-names: Kumar
+    given-names: Ritesh
+    affiliation: "Indian Institute of Technology Roorkee, India"
+    email: dr.riteshk94@gmail.com
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # add your ORCID
+
+  - family-names: Chaurasiya
+    given-names: Vijay Kumar
+    affiliation: "Indian Institute of Information Technology Allahabad, India"
+    email: vijayk@iiita.ac.in
+
+type: dataset
+
+version: "1.0.0"
+
+date-released: "2026-04-08"
+
+license: CC-BY-4.0
+
+repository-code: "https://github.com/doritzku/LAB-3D"
+
+doi: "pending"
+
+abstract: >
+  LAB-3D is the first publicly available Wi-Fi RSSI fingerprint
+  dataset spanning three controlled height levels (z = 1.0, 1.5,
+  2.0 m) within a single laboratory floor. Collected with an ESP32
+  device on an adjustable tripod in the CORDIoT laboratory at IIIT
+  Allahabad (11 m × 14 m, 6 IEEE 802.11n access points), it provides
+  19,866 training samples at 88 unique 3-D reference points and two
+  independent test files with 199 and 197 evaluation positions
+  respectively. The dataset is designed to benchmark height-aware
+  indoor positioning algorithms.
+
+keywords:
+  - indoor positioning
+  - Wi-Fi fingerprinting
+  - RSSI
+  - 3D dataset
+  - height-aware localization
+  - ESP32
+  - radio map
+  - benchmark
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kumar
+      given-names: Ritesh
+    - family-names: Chaurasiya
+      given-names: Vijay Kumar
+  title: >
+    LAB-3D: Measurement, Characterization, and Height-Aware
+    Interpolation of a Three-Dimensional Wi-Fi RSSI Fingerprint
+    Dataset
+  journal: "IEEE Sensors Journal"
+  year: 2024
+  # doi: "10.xxxx/JSEN.2024.xxxxxxx"  # add when published
