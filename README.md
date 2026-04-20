@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Dataset DOI](https://img.shields.io/badge/DOI-pending-blue)](#)
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20Sensors%20Journal%20(under%20review)-red)](#)
+[![Paper](https://img.shields.io/badge/Paper-Under%20Review%20only-red)](#)
 
 ---
 
