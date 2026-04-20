@@ -180,7 +180,7 @@ If you use LAB-3D in your research, please cite:
   title   = {{LAB-3D}: Measurement, Characterization, and
              Height-Aware Interpolation of a Three-Dimensional
              {Wi-Fi} {RSSI} Fingerprint Dataset},
-  journal = {IEEE Sensors Journal},
+  journal = {Under Review only},
   year    = {2024},
   note    = {Under review}
 }
